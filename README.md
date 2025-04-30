@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a person who don't know what's going on
-- 👀 I’m interested in Crypto and Something amazing.
+- 👀 I’m interested in Web3 and Something amazing.
 - 🌱 [yehuang.eth](https://app.ens.domains/yehuang.eth) is my Ethereum Domain.
 
 🌟 **My Skills**
